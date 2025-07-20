@@ -1,0 +1,82 @@
+[09-May-2025 09:15:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\login.php:38
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\login.php on line 38
+[09-May-2025 15:11:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\login.php:38
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\login.php on line 38
+[13-May-2025 17:28:40 Europe/Berlin] New user registered: abc.2020@bracu.ac.bd
+[13-May-2025 17:28:50 Europe/Berlin] Successful login for user: abc.2020@bracu.ac.bd
+[13-May-2025 17:29:04 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:29:04 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:29:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:30:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:30:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:43:14 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:43:14 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:43:38 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:43:38 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:48:53 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:48:53 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:48:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:52:41 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:52:41 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:53:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:57:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 18:00:06 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 18:00:06 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 18:00:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 18:19:52 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 18:19:52 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 18:24:00 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 18:24:00 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 18:25:43 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 18:25:43 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 19:01:06 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 19:01:06 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 19:01:09 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 19:01:09 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 19:01:11 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 19:01:11 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 19:48:59 Europe/Berlin] Successful login for user: abc.2020@bracu.ac.bd
+[13-May-2025 20:50:40 Europe/Berlin] Query execution error: Query preparation failed: Table 'lost_and_found.item_claims' doesn't exist
+[13-May-2025 20:50:40 Europe/Berlin] My Reports error: Database query failed. Please try again later.
+[13-May-2025 20:56:10 Europe/Berlin] Query execution error: Query preparation failed: Table 'lost_and_found.item_claims' doesn't exist
+[13-May-2025 20:56:10 Europe/Berlin] My Reports error: Database query failed. Please try again later.
+[14-May-2025 05:36:45 Europe/Berlin] Successful login for user: abc.2020@bracu.ac.bd
+[14-May-2025 05:43:32 Europe/Berlin] New user registered: sume.2021@bracu.ac.bd
+[14-May-2025 05:43:48 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[14-May-2025 06:52:18 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[14-May-2025 07:24:13 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[14-May-2025 07:59:35 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[20-Jul-2025 06:36:14 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[20-Jul-2025 06:58:04 Europe/Berlin] New user registered: sume@bracu.ac.bd
+[20-Jul-2025 06:58:45 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[20-Jul-2025 07:03:46 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[20-Jul-2025 07:05:55 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[20-Jul-2025 07:06:34 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[20-Jul-2025 07:12:41 Europe/Berlin] New user registered: sadia@bracu.ac.bd
+[20-Jul-2025 07:12:49 Europe/Berlin] Successful login for user: sadia@bracu.ac.bd
+[20-Jul-2025 07:20:39 Europe/Berlin] Successful login for user: sadia@bracu.ac.bd
