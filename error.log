@@ -1,0 +1,235 @@
+[09-May-2025 09:15:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\login.php:38
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\login.php on line 38
+[09-May-2025 15:11:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\login.php:38
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\login.php on line 38
+[13-May-2025 17:28:40 Europe/Berlin] New user registered: abc.2020@bracu.ac.bd
+[13-May-2025 17:28:50 Europe/Berlin] Successful login for user: abc.2020@bracu.ac.bd
+[13-May-2025 17:29:04 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:29:04 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:29:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:30:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:30:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:43:14 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:43:14 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:43:38 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:43:38 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:48:53 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:48:53 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:48:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:52:41 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 17:52:41 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 17:53:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 17:57:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 18:00:06 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 18:00:06 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 18:00:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\lostfound\search.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\lostfound\search.php on line 48
+[13-May-2025 18:19:52 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 18:19:52 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 18:24:00 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 18:24:00 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 18:25:43 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 18:25:43 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 19:01:06 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 19:01:06 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 19:01:09 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 19:01:09 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 19:01:11 Europe/Berlin] Query execution error: Query preparation failed: Unknown column 'i.Claimer_ID' in 'on clause'
+[13-May-2025 19:01:11 Europe/Berlin] Rewards page error: Database query failed. Please try again later.
+[13-May-2025 19:48:59 Europe/Berlin] Successful login for user: abc.2020@bracu.ac.bd
+[13-May-2025 20:50:40 Europe/Berlin] Query execution error: Query preparation failed: Table 'lost_and_found.item_claims' doesn't exist
+[13-May-2025 20:50:40 Europe/Berlin] My Reports error: Database query failed. Please try again later.
+[13-May-2025 20:56:10 Europe/Berlin] Query execution error: Query preparation failed: Table 'lost_and_found.item_claims' doesn't exist
+[13-May-2025 20:56:10 Europe/Berlin] My Reports error: Database query failed. Please try again later.
+[14-May-2025 05:36:45 Europe/Berlin] Successful login for user: abc.2020@bracu.ac.bd
+[14-May-2025 05:43:32 Europe/Berlin] New user registered: sume.2021@bracu.ac.bd
+[14-May-2025 05:43:48 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[14-May-2025 06:52:18 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[14-May-2025 07:24:13 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[14-May-2025 07:59:35 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[20-Jul-2025 06:36:14 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[20-Jul-2025 06:58:04 Europe/Berlin] New user registered: sume@bracu.ac.bd
+[20-Jul-2025 06:58:45 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[20-Jul-2025 07:03:46 Europe/Berlin] Successful login for user: sume.2021@bracu.ac.bd
+[20-Jul-2025 07:05:55 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[20-Jul-2025 07:06:34 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[20-Jul-2025 07:12:41 Europe/Berlin] New user registered: sadia@bracu.ac.bd
+[20-Jul-2025 07:12:49 Europe/Berlin] Successful login for user: sadia@bracu.ac.bd
+[20-Jul-2025 07:20:39 Europe/Berlin] Successful login for user: sadia@bracu.ac.bd
+[20-Jul-2025 13:46:20 Europe/Berlin] New user registered: sadman@bracu.ac.bd
+[20-Jul-2025 13:46:29 Europe/Berlin] Successful login for user: sadman@bracu.ac.bd
+[20-Jul-2025 13:47:21 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\lostfound\report_lost.php:48
+Stack trace:
+#0 C:\xampp\htdocs\lostfound\report_lost.php(48): mysqli_stmt->bind_param('ssiss', '1234567', 'Headphone', 1, '12A32C', 'Blue', '2025-07-01', NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\lostfound\report_lost.php on line 48
+[20-Jul-2025 13:52:35 Europe/Berlin] Successful login for user: sadman@bracu.ac.bd
+[20-Jul-2025 13:56:05 Europe/Berlin] Successful login for user: sadman@bracu.ac.bd
+[20-Jul-2025 13:57:15 Europe/Berlin] New user registered: shakira@bracu.ac.bd
+[20-Jul-2025 13:57:25 Europe/Berlin] Successful login for user: shakira@bracu.ac.bd
+[20-Jul-2025 13:57:52 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\lostfound\report_lost.php:48
+Stack trace:
+#0 C:\xampp\htdocs\lostfound\report_lost.php(48): mysqli_stmt->bind_param('ssiss', '9876543', 'Headphone', 1, '12A32C', 'blue', '2025-07-01', 'uploads/687cd9c...')
+#1 {main}
+  thrown in C:\xampp\htdocs\lostfound\report_lost.php on line 48
+[20-Jul-2025 13:58:12 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\lostfound\report_lost.php:48
+Stack trace:
+#0 C:\xampp\htdocs\lostfound\report_lost.php(48): mysqli_stmt->bind_param('ssiss', '9876543', 'Headphone', 1, '12A32C', 'blue', '2025-07-01', 'uploads/687cd9d...')
+#1 {main}
+  thrown in C:\xampp\htdocs\lostfound\report_lost.php on line 48
+[20-Jul-2025 14:11:55 Europe/Berlin] New user registered: fahim@bracu.ac.bd
+[20-Jul-2025 14:12:03 Europe/Berlin] Successful login for user: fahim@bracu.ac.bd
+[20-Jul-2025 14:14:29 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\lostfound\report_found.php:48
+Stack trace:
+#0 C:\xampp\htdocs\lostfound\report_found.php(48): mysqli_stmt->bind_param('ssiss', '2345678', 'Watch', 3, '7A12C', 'Black', '2025-07-17', NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\lostfound\report_found.php on line 48
+[20-Jul-2025 14:19:43 Europe/Berlin] New user registered: hasan@bracu.ac.bd
+[20-Jul-2025 14:19:55 Europe/Berlin] Successful login for user: hasan@bracu.ac.bd
+[20-Jul-2025 14:25:32 Europe/Berlin] New user registered: zannat@bracu.ac.bd
+[20-Jul-2025 14:25:39 Europe/Berlin] Successful login for user: zannat@bracu.ac.bd
+[20-Jul-2025 14:30:08 Europe/Berlin] New user registered: zarif@bracu.ac.bd
+[20-Jul-2025 14:30:17 Europe/Berlin] Successful login for user: zarif@bracu.ac.bd
+[20-Jul-2025 16:17:55 Europe/Berlin] New user registered: masud@bracu.ac.bd
+[20-Jul-2025 16:18:06 Europe/Berlin] Successful login for user: masud@bracu.ac.bd
+[20-Jul-2025 17:37:40 Europe/Berlin] New user registered: nuba@bracu.ac.bd
+[20-Jul-2025 17:37:49 Europe/Berlin] Successful login for user: nuba@bracu.ac.bd
+[20-Jul-2025 17:45:23 Europe/Berlin] New user registered: mahi@bracu.ac.bd
+[20-Jul-2025 17:45:30 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[04-Aug-2025 08:00:41 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[06-Aug-2025 05:51:02 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[13-Aug-2025 20:27:21 Europe/Berlin] Query execution error: Table 'lost_and_found.categories' doesn't exist
+[13-Aug-2025 20:27:21 Europe/Berlin] Hotspots error: Database query failed. Please try again later.
+[13-Aug-2025 20:27:21 Europe/Berlin] PHP Warning:  Undefined variable $category_data in C:\xampp\htdocs\lostfound\hotspots.php on line 662
+[13-Aug-2025 20:27:21 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: array_column(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\lostfound\hotspots.php:662
+Stack trace:
+#0 C:\xampp\htdocs\lostfound\hotspots.php(662): array_column(NULL, 'Category_Name')
+#1 {main}
+  thrown in C:\xampp\htdocs\lostfound\hotspots.php on line 662
+[13-Aug-2025 20:27:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lost_and_found.categories' doesn't exist in C:\xampp\htdocs\lostfound\report_lost.php:69
+Stack trace:
+#0 C:\xampp\htdocs\lostfound\report_lost.php(69): mysqli->query('SELECT Category...')
+#1 {main}
+  thrown in C:\xampp\htdocs\lostfound\report_lost.php on line 69
+[13-Aug-2025 20:30:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'lost_and_found.categories' doesn't exist in C:\xampp\htdocs\lostfound\report_lost.php:69
+Stack trace:
+#0 C:\xampp\htdocs\lostfound\report_lost.php(69): mysqli->query('SELECT Category...')
+#1 {main}
+  thrown in C:\xampp\htdocs\lostfound\report_lost.php on line 69
+[13-Aug-2025 20:43:35 Europe/Berlin] New user registered: mahi@bracu.ac.bd
+[13-Aug-2025 20:43:44 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[13-Aug-2025 20:48:58 Europe/Berlin] PHP Warning:  move_uploaded_file(uploads/689cde1a354ab_1755110938.jpg): Failed to open stream: No such file or directory in C:\xampp\htdocs\lostfound\report_lost.php on line 34
+[13-Aug-2025 20:48:58 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move &quot;C:\xampp\tmp\php57A8.tmp&quot; to &quot;uploads/689cde1a354ab_1755110938.jpg&quot; in C:\xampp\htdocs\lostfound\report_lost.php on line 34
+[13-Aug-2025 20:55:51 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[13-Aug-2025 23:16:06 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[13-Aug-2025 23:17:35 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[13-Aug-2025 23:26:07 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[17-Aug-2025 17:09:28 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[17-Aug-2025 17:20:10 Europe/Berlin] New user registered: faysal@bracu.ac.bd
+[17-Aug-2025 17:20:50 Europe/Berlin] Successful login for user: faysal@bracu.ac.bd
+[17-Aug-2025 17:23:30 Europe/Berlin] Notifications sent for item 6 to 1 users
+[17-Aug-2025 17:23:43 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[17-Aug-2025 17:29:46 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[18-Aug-2025 14:36:51 Europe/Berlin] New user registered: sume@bracu.ac.bd
+[18-Aug-2025 14:42:40 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[18-Aug-2025 14:44:13 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[18-Aug-2025 14:45:09 Europe/Berlin] Notifications sent for item 7 to 2 users
+[18-Aug-2025 14:45:47 Europe/Berlin] Successful login for user: mahi@bracu.ac.bd
+[18-Aug-2025 14:48:38 Europe/Berlin] Successful login for user: faysal@bracu.ac.bd
+[18-Aug-2025 14:50:11 Europe/Berlin] Successful login for user: faysal@bracu.ac.bd
+[18-Aug-2025 14:51:40 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[18-Aug-2025 15:28:43 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[18-Aug-2025 15:28:57 Europe/Berlin] Successful login for user: faysal@bracu.ac.bd
+[18-Aug-2025 15:31:25 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[18-Aug-2025 18:23:38 Europe/Berlin] Successful login for user: sume@bracu.ac.bd
+[18-Aug-2025 18:24:22 Europe/Berlin] Notifications sent for item 8 to 2 users
+[18-Aug-2025 18:24:57 Europe/Berlin] Successful login for user: faysal@bracu.ac.bd
+[18-Aug-2025 18:26:38 Europe/Berlin] Query execution error: Unknown column 'Verification_Answers' in 'field list'
+[18-Aug-2025 18:26:38 Europe/Berlin] Claim item error: Database query failed. Please try again later.
+[30-Aug-2025 08:21:28 Europe/Berlin] Successful login for user: faysal@bracu.ac.bd
+[30-Aug-2025 08:22:17 Europe/Berlin] Successful login for user: faysal@bracu.ac.bd
+[30-Aug-2025 08:48:36 Europe/Berlin] Failed admin login attempt for user: admin@bracu.ac.bd
+[30-Aug-2025 08:49:37 Europe/Berlin] Failed admin login attempt for user: admin@bracu.ac.bd
+[30-Aug-2025 08:50:26 Europe/Berlin] Failed admin login attempt for user: admin@bracu.ac.bd
+[30-Aug-2025 08:50:33 Europe/Berlin] Failed admin login attempt for user: admin@bracu.ac.bd
+[30-Aug-2025 08:51:23 Europe/Berlin] Successful admin login for user: admin@bracu.ac.bd
+[30-Aug-2025 17:02:24 Europe/Berlin] Successful admin login for user: admin@bracu.ac.bd
+[30-Aug-2025 17:02:34 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[30-Aug-2025 17:02:34 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[30-Aug-2025 17:02:46 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[30-Aug-2025 17:02:46 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[30-Aug-2025 17:06:46 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[30-Aug-2025 17:06:46 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[30-Aug-2025 17:07:00 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[30-Aug-2025 17:07:00 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 06:19:56 Europe/Berlin] Successful login for user: admin@bracu.ac.bd
+[31-Aug-2025 06:20:24 Europe/Berlin] Successful admin login for user: admin@bracu.ac.bd
+[31-Aug-2025 06:23:45 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 06:23:45 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 06:24:42 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 06:24:42 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 06:34:56 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\lostfound\profile.php on line 380
+[31-Aug-2025 06:38:16 Europe/Berlin] Successful admin login for user: admin@bracu.ac.bd
+[31-Aug-2025 06:39:38 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 06:39:38 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 06:40:04 Europe/Berlin] Successful login for user: faysal@bracu.ac.bd
+[31-Aug-2025 06:42:20 Europe/Berlin] New user registered: trump@bracu.ac.bd
+[31-Aug-2025 06:42:29 Europe/Berlin] Successful login for user: trump@bracu.ac.bd
+[31-Aug-2025 06:43:22 Europe/Berlin] Successful login for user: admin@bracu.ac.bd
+[31-Aug-2025 06:43:31 Europe/Berlin] Successful login for user: admin@bracu.ac.bd
+[31-Aug-2025 18:00:55 Europe/Berlin] Successful admin login for user: admin@bracu.ac.bd
+[31-Aug-2025 18:00:59 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:00:59 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:01:03 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:01:03 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:02:45 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:02:45 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:02:46 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:02:46 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:05:50 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:05:50 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:05:52 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:05:52 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:06:06 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:06:06 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:07:22 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:07:22 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:07:24 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:07:24 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:07:31 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:07:31 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:08:07 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:08:07 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:08:09 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:08:09 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:08:13 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:08:13 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:11:40 Europe/Berlin] Successful login for user: admin@bracu.ac.bd
+[31-Aug-2025 18:13:07 Europe/Berlin] Successful admin login for user: admin@bracu.ac.bd
+[31-Aug-2025 18:13:09 Europe/Berlin] Query execution error: Unknown column 'i.Color' in 'field list'
+[31-Aug-2025 18:13:09 Europe/Berlin] Admin review claims error: Database query failed. Please try again later.
+[31-Aug-2025 18:27:31 Europe/Berlin] PHP Warning:  Undefined array key "Item_ID" in C:\xampp\htdocs\lostfound\admin_review_claims.php on line 58
